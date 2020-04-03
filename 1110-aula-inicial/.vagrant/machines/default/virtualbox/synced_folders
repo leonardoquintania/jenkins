@@ -1,0 +1,1 @@
+{"virtualbox":{"/configs":{"guestpath":"/configs","hostpath":"/Volumes/500GB/Pessoal/jenkins/1110-aula-inicial/configs","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Volumes/500GB/Pessoal/jenkins/1110-aula-inicial","disabled":false,"__vagrantfile":true}}}
